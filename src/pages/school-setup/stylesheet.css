@@ -1,0 +1,22 @@
+.line {
+  background-color: black;
+  padding: 1.5px;
+}
+
+.period__day {
+  padding: 10px;
+  border-radius: 0;
+}
+
+.period {
+  text-align: center;
+}
+
+.day_selected {
+  border: 3px solid #D8B00D;
+}
+
+.excel_layout {
+  border-top: 3px solid black;
+  width: 50vw;
+}

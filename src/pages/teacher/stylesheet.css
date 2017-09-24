@@ -1,0 +1,30 @@
+.teacher__attendance-row {
+  border-bottom: 2px solid #e8e8e8;
+}
+
+.teacher__attendance-row:last-child {
+  border-bottom: 0;
+}
+
+.teacher__attendance-row * {
+  display: inline-block;
+}
+
+.teacher__attendance-buttons {
+  float: right;
+  margin: 10px;
+}
+
+.teacher__attendance-buttons * {
+  margin-left: 20px;
+  border-radius: 0;
+}
+
+
+.assignment_students {
+  margin-right: 20px;
+}
+
+.assignment__student-row > * {
+  border-bottom: 2px solid #e8e8e8;
+}
