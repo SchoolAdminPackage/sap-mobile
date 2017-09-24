@@ -9,7 +9,7 @@ ul {
 }
 
 html {
-  font-family: Montserrat !important;
+  font-family: Montserrat;
   /* color: white; */
 }
 
@@ -29,7 +29,7 @@ a {
 
 input, button {
   border: 0;
-  font-family: Montserrat !important;
+  font-family: Montserrat;
 }
 
 

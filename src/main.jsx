@@ -36,6 +36,7 @@ switch (window.localStorage.layout) {
     break
 }
 
+
 ReactDOM.render(
   <Component />,
   document.getElementById('app')
